@@ -9,4 +9,4 @@ const loginView = (req, res) => {
     res.render("login", {
     } );
 }
-module.exports =  {registerView,loginView};
+module.exports =  {registerView, loginView};
