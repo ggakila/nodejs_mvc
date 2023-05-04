@@ -1,5 +1,5 @@
 This repo shows the basic strucyure of node js mvc.
-Package sused:
+Packages used:
   1. EJS
   2. ExpressJS
   3. Passport
